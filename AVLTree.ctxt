@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=node
+comment0.target=int\ height(Node)
+comment1.params=a\ b
+comment1.target=int\ max(int,\ int)
+comment2.params=y
+comment2.target=Node\ rightRotate(Node)
+comment3.params=x
+comment3.target=Node\ leftRotate(Node)
+comment4.params=node
+comment4.target=int\ getBalance(Node)
+comment5.params=node\ number
+comment5.target=Node\ insert(Node,\ int)
+comment6.params=node
+comment6.target=void\ printPaths(Node)
+comment7.params=node\ paths\ path
+comment7.target=void\ printPath(Node,\ int[],\ int)
+comment8.params=paths\ path
+comment8.target=void\ printArray(int[],\ int)
+numComments=9
